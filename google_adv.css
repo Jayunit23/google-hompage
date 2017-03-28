@@ -1,0 +1,53 @@
+body{
+	margin:0px;
+}
+#header_sec{
+	height:50px;
+	background-color: #e5e5e5;
+	border: 1px dashed red;
+	position: relative;
+
+}
+#header_sec2{
+	height:50px;
+	background-color: #e5e5e5;
+	border: 1px dashed red;
+}
+#header_sec2 ul{
+	list-style-type:none;
+	width: 400px;
+	border: 1px solid pink;
+	left:200px;
+	position: relative;
+	
+
+}
+#header_sec2 ul li{
+	display:inline;
+	padding:10px;
+
+}
+
+
+#header_sec2 ul a{
+	font-family: arial;
+	text-decoration: none;
+	
+}
+
+
+#little_google{
+	height:50px;
+	padding:15px;
+	border: 1px solid yellow;
+
+}
+#searchbox {
+	border:1px solid red;
+	position:absolute;
+	top:0px;
+	height:30px;
+	width:400px;
+	left:200px;
+	margin:10px;
+}
